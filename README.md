@@ -15,3 +15,4 @@ Chrome runs headless by default. To watch the tests, run `mvn test -Dheadless=fa
 Open `target/extent-report.html` for the Extent HTML report. Maven also writes the raw results under `target/surefire-reports/`.
 
 The starter framework roles are implemented by `BaseTest`, `LoginPage`, `NavigationBar`, `DriverFactory`, and `ExtentManager`. The three business page objects are `DashboardPage`, `WidgetSectionPage`, and `QuickLaunchPage`.
+# softwaretestingintern
